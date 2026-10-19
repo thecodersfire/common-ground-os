@@ -24,3 +24,11 @@ The `common-ground.svg` wallpaper is original. Common Ground OS is an independen
 
 See [FEATURES.md](FEATURES.md) for three local tools included for community coordination.
 
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, KeePassXC, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, Audacity, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, Audacity, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, Audacity, Foliate**. See [FEATURES.md](FEATURES.md).
